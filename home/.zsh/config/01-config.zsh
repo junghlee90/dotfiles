@@ -8,6 +8,15 @@
 # terminal session!
 # More info here: https://kev.inburke.com/kevin/profiling-zsh-startup-time/
 
+alias ein="cd ~/proj/einstein"
+alias gb="git branch"
+alias gp="git pull"
+alias gl="git log"
+alias gd="git diff"
+alias ui="cd ~/proj/einstein/ui/src/main/resources/static/citadel"
+alias u="cd .."
+
+
 # ======
 # awscli
 # ======
